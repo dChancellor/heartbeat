@@ -52,7 +52,7 @@
 		"svelte-loader": "^3.1.5",
 		"tslib": "^2.5.0",
 		"typescript": "^4.9.3",
-		"vite": "^4.1.0",
+		"vite": "^4.1.5",
 		"vite-plugin-zod-env-validate": "^0.1.0",
 		"vitest": "^0.28.4",
 		"zod": "^3.20.6"
